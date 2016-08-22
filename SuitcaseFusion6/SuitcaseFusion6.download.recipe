@@ -57,6 +57,8 @@
 		<dict>
 			<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
 			</true>
+			<key>Processor</key>
+				<string>CodeSignatureVerifier</string>
 		</dict>
 	</array>
 </dict>
