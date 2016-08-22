@@ -54,12 +54,8 @@
 			<key>Processor</key>
 			<string>Unarchiver</string>
 		</dict>
-		<dict>
-			<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
-        	<string>True</string>
-			<key>Processor</key>
-				<string>CodeSignatureVerifier</string>
-		</dict>
 	</array>
+	<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
+        	<string>True</string
 </dict>
 </plist>
