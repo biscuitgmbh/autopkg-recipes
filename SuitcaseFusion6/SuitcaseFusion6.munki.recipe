@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Suitcase Fusion 6 and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>biscuit.munki.SuitcaseFusion6</string>
+	<string>com.biscuitgmbh.munki.SuitcaseFusion6</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
 	<key>ParentRecipe</key>
-	<string>biscuit.download.SuitcaseFusion6</string>
+	<string>com.biscuitgmbh.download.SuitcaseFusion6</string>
 	<key>Process</key>
 	<array>
 		<dict>

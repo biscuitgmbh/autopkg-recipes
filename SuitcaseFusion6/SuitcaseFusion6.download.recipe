@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Suitcase Fusion 6.</string>
 	<key>Identifier</key>
-	<string>biscuit.download.SuitcaseFusion6</string>
+	<string>com.biscuitgmbh.download.SuitcaseFusion6</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
